@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364060573719",
+    "project_id": "teslahome-cc3a3",
+    "storage_bucket": "teslahome-cc3a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364060573719:android:eb101285826c6b95e4dc52",
+        "android_client_info": {
+          "package_name": "com.tesla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364060573719-od9td3tebjspsmm2m2srie3dqtntkk5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeRTWT-KNg_85dwpmV2RuRywq6BP6NAb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364060573719-od9td3tebjspsmm2m2srie3dqtntkk5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
